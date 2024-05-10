@@ -11,8 +11,8 @@ This is a simple English-to-French translator application built using PyQt5 and 
 
 ## Screenshots:
 <div>
-  <img src="Screenshot1.JPG" alt="Screenshot 1" style="width: 50%;">
-  <img src="Screenshot2.JPG" alt="Screenshot 2" style="width: 50%;">
+  <img src="Screenshot1.JPG" alt="Screenshot 1" style="width: 45%;">
+  <img src="Screenshot2.JPG" alt="Screenshot 2" style="width: 45%;">
 </div>
 
 ## Usage:
