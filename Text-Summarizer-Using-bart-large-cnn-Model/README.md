@@ -2,6 +2,12 @@
 
 This Python application provides a graphical user interface (GUI) for summarizing text using a pre-trained model from the Hugging Face Transformers library. It allows users to input text and specify the maximum number of words for the summary.
 
+## Screenshots:
+<div>
+  <img src="Screenshot1.JPG" alt="Screenshot 1" style="width: 45%;">
+  <img src="Screenshot2.JPG" alt="Screenshot 2" style="width: 45%;">
+</div>
+
 ## Requirements:
 - Python (version 3.6 or higher)
 - PyQt5 (version 5.6 or higher)
@@ -29,12 +35,6 @@ This Python application provides a graphical user interface (GUI) for summarizin
 - **Maximum Words Input**: Specify the maximum number of words for the summary.
 - **Summarize Button**: Initiate the text summarization process.
 - **Output Text Area**: View the generated summary.
-
-## Screenshots:
-<div>
-  <img src="Screenshot1.JPG" alt="Screenshot 1" style="width: 50%;">
-  <img src="Screenshot2.JPG" alt="Screenshot 2" style="width: 50%;">
-</div>
 
 ## Notes:
 - Ensure an internet connection for model loading and text summarization.
