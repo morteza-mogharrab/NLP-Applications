@@ -37,10 +37,10 @@ The application window will appear, allowing you to enter the passage and questi
     ```
     python Offline-Chatbot-Using-gpt2-xl-Model.py
     ```
-    
 
 ## Notes
 -Ensure that both the passage and the question are provided before clicking the "Get Answer" button.
+
 -In case of any errors during answer retrieval, an error message will be displayed in the answer output area.
 
 ## License
