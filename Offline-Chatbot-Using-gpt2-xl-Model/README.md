@@ -21,8 +21,9 @@ To run the GPT Chat application, you need the following dependencies:
 1. Install Python 3.11.5 on your local machine.
 2. Install the required Python packages using pip:
     ```
-pip install -r requirements.txt
+    pip install -r requirements.txt
     ```
+    
 ## Usage
 1. Clone or download the GPT model to your local machine.
 2. Navigate to the directory containing the downloaded files.
@@ -31,8 +32,9 @@ pip install -r requirements.txt
 5. The application window will appear, allowing you to interact with the chatbot.
 6. Enter your prompt in the provided input field and click the "Generate Answer" button to receive a response from the chatbot.
     ```
-python Offline-Chatbot-Using-gpt2-xl-Model.py
+    python Offline-Chatbot-Using-gpt2-xl-Model.py
     ```
+    
 ## Features
 - Enter prompts to initiate a conversation with the chatbot.
 - Customize the maximum number of tokens for the generated response.
