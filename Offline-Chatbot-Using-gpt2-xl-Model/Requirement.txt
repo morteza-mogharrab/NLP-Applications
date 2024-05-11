@@ -1,0 +1,4 @@
+python==3.11.5
+transformers==4.35.2
+sacremoses==0.1.1
+PyQt5==5.15.10
