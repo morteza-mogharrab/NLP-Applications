@@ -29,19 +29,17 @@ To run the GPT Chat application, you need the following dependencies:
 ## Usage
 The application window will appear, allowing you to enter the passage and question.
 
--Enter the passage in the text area labeled "Enter your passage."
--Enter the question in the text area labeled "Enter your question."
--Click the "Get Answer" button to retrieve the answer based on the provided passage and question.
--The answer will be displayed in the text area below.
+- Enter the passage in the text area labeled "Enter your passage."
+- Enter the question in the text area labeled "Enter your question."
+- Click the "Get Answer" button to retrieve the answer based on the provided passage and question.
+- The answer will be displayed in the text area below.
 
     ```
     python Offline-Chatbot-Using-gpt2-xl-Model.py
-    ```
 
 ## Notes
--Ensure that both the passage and the question are provided before clicking the "Get Answer" button.
-
--In case of any errors during answer retrieval, an error message will be displayed in the answer output area.
+- Ensure that both the passage and the question are provided before clicking the "Get Answer" button.
+- In case of any errors during answer retrieval, an error message will be displayed in the answer output area.
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
